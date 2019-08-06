@@ -28,3 +28,7 @@ jvm子模块测试：
 concurrent子模块：
 测试java并发包中的一些锁
 
+喜欢的可以star一下。
+
+我的博客中有他们的讲述：https://blog.csdn.net/liao_hb?t=0
+
